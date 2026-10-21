@@ -22,10 +22,10 @@ A simple, menu-driven To-Do List application developed using Java. It allows use
 3. Open the project folder in VS Code.
 4. Open the terminal in the folder containing ToDoList.java.
 5. Compile the program:
-   javac To_Do_List.java
+   javac ToDoList.java
    
 7. Run the program:
-   java To_Do_List
+   java ToDoList
    
 ## Example Output
 ----- To Do List -----
