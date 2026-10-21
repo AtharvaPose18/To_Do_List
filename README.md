@@ -1,6 +1,4 @@
 # Java To-Do List Manager
-
-## Description
 A simple, menu-driven To-Do List application developed using Java. It allows users to add tasks, view tasks, and mark tasks as completed.
 
 ## Features
@@ -24,10 +22,10 @@ A simple, menu-driven To-Do List application developed using Java. It allows use
 3. Open the project folder in VS Code.
 4. Open the terminal in the folder containing ToDoList.java.
 5. Compile the program:
-   javac ToDoList.java
+   javac To_Do_List.java
    
 7. Run the program:
-   java ToDoList
+   java To_Do_List
    
 ## Example Output
 ----- To Do List -----
